@@ -30,11 +30,11 @@
 <img align="left"  alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left"  alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" />
 <img align="left"  alt="Ionic" width="26px" src="http://tech.tribalyte.eu/wp-content/uploads/2018/05/ionic.png" />
-<img align="left"  alt="Flutter" width="26px" src="https://openexpoeurope.com/wp-content/uploads/2019/12/flutter-logo-sharing.png" />
+<img align="left"  alt="Flutter" width="26px" src="https://camo.githubusercontent.com/dc130e15e764a2ce83daf7503c9b73e5ee349259ceb82b4a0f393339289f8564/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313230302f312a352d616f4b3849426d58766535776842514d393047412e706e67" />
 <img align="left"  alt="Graphql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/225px-GraphQL_Logo.svg.png" />
 <img align="left"  alt="NodeJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left"  alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
-<img align="left"  alt="MongoDb" width="26px" src="https://tecnoticias.net/wp-content/uploads/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg" />
+<img align="left"  alt="MongoDb" width="26px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
 <img align="left"  alt="PostGres" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 
 <img align="left"  alt="GitHub" width="26px" src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2017/06/github.png?width=1200&enable=upscale" />
