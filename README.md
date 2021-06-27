@@ -3,7 +3,7 @@
 ## Desarrollador de Software 💻
 - 🌱 Actualmente estoy aprendiendo React usando Redux
 - 💻 Tengo conocimiento basico y medio de frameworks FrontEnd como React, Angular y Ionic.
-- 📝 He utilizado lenguajes de programacion Back-end tales como Node-Js, PHP, Laravel.
+- 📝 He utilizado lenguajes de programacion BackEnd tales como Node-Js, PHP, Laravel.
 - 🌟 Convertirme en un Desarrollador de Software Senior Full Stack 
 
 ### Connect with me:
@@ -29,6 +29,7 @@
 <img align="left"  alt="Flutter" width="26px" src="https://openexpoeurope.com/wp-content/uploads/2019/12/flutter-logo-sharing.png" />
 <img align="left"  alt="Graphql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/225px-GraphQL_Logo.svg.png" />
 <img align="left"  alt="NodeJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left"  alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
 <img align="left"  alt="MongoDb" width="26px" src="https://tecnoticias.net/wp-content/uploads/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg" />
 <img align="left"  alt="PostGres" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 
