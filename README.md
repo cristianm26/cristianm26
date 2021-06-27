@@ -31,7 +31,7 @@
 [<img align="left"  alt="NodeJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 [<img align="left"  alt="MongoDb" width="26px" src="https://tecnoticias.net/wp-content/uploads/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg" />]
 [<img align="left"  alt="PostGres" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />]
-[<img align="left"  alt="Heroku" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--K2q0A5SX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2elgd5zp07wkeilkna63.png" />]
+
 [<img align="left"  alt="GitHub" width="26px" src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2017/06/github.png?width=1200&enable=upscale" />]
 
 <br/>
