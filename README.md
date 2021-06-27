@@ -1,4 +1,8 @@
 ### Hola 👋, Soy Cristian Muñoz 👦
+<a href="#">
+<img src="https://i.imgur.com/iXuL1HG.png" width="100%" height="175px"/>
+</a>
+<br/>
 
 ## Desarrollador de Software 💻
 - 🌱 Actualmente estoy aprendiendo React usando Redux
